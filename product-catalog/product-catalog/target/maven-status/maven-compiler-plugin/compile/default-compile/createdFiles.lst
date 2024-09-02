@@ -1,0 +1,9 @@
+com\example\productcatalog\model\NotBlank.class
+com\example\productcatalog\model\ProductRepository.class
+com\example\productcatalog\controller\Valid.class
+com\example\productcatalog\exception\GlobalExceptionHandler.class
+com\example\productcatalog\ProductCatalogApplication.class
+com\example\productcatalog\service\ProductService.class
+com\example\productcatalog\model\Product.class
+com\example\productcatalog\controller\ProductController.class
+com\example\productcatalog\model\Min.class
